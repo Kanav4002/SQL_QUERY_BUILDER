@@ -262,7 +262,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [kumarkanav5753@gmail.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/Kanav4002/SQL_QUERY_BUILDER/issues)
 - 📖 Docs: Check the `/docs` folder
 
